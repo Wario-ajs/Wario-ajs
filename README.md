@@ -17,6 +17,6 @@
   <a href = "mailto:anjos.mariosergio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mario-sergio-silvestre-dos-anjos-07b235204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Wario-ajs/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Wario-ajs/Wario-ajs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
